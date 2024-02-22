@@ -18,7 +18,7 @@ This is a first-person horror game. There is an enemy chasing us on the map. Our
 - The artificial intelligence of the enemy character has been created using a simple behavior tree.
 ## Deployment
 
-• First you need to have Unreal Engine 5.3.2 installed. If you don't have it, please download and install an appropriate version of Unity from the following link: 
+• First you need to have Unreal Engine 5.3.2 installed. If you don't have it, please download and install an appropriate version of Unreal Engine from the following link: 
 
 https://www.unrealengine.com/en-US/download
 
